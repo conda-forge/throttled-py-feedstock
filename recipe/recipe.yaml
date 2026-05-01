@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 3.2.0
+  version: "3.3.0"
 
 package:
   name: throttled-py
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/throttled-py/throttled_py-${{ version }}.tar.gz
-  sha256: a168ad3c0b77efd3cef10120b2e4e52100018e6c02f9d5e1f064bb84c7b39d74
+  sha256: f618fb1810de67240e608fc21dfd6e82dc68d96512bf33aedec117d89573f1e4
 
 build:
   number: 0
